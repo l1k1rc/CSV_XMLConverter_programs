@@ -1,16 +1,16 @@
 # CSV_XMLConverter_programs
-# Project
+## Project
 Programs related to the development of the bpm ask'it
 
-# Enterprise
+## Enterprise
 EDF SA
 
-# Members of the team
+## Members of the team
 Dev
 ```
 	SAINT-AMAND Matthieu
 ```
-## getting started
+### getting started
 To set up the project
 ```
 	Use Eclipse IDE with runtime environment and Java 1.5 or more.
@@ -21,11 +21,12 @@ To set up the project
 ```
 	This project has been developed	in Java SE 1.5.
 ```
-## Warning
+### Warning
 Be carefull for the CSVtoXML program,you need to set your CSV with semicolon if this 
 is not done, the program cannot succeed.
 
 You have examples of files generated in the zip.
 
-## Author
+### Author
 MS
+...
